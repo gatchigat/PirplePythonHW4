@@ -20,6 +20,7 @@ def addtoBin(x):
     myLeftovers.append(x)
 
 
+#Output
 print(myUniqueList)  # test value
 addToList(0)  # first append
 addToList(1)
