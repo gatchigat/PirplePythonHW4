@@ -1,5 +1,5 @@
 
-# declare global variable
+# declare global list variable
 myUniqueList = []
 myLeftovers = []
 
